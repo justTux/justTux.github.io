@@ -6,3 +6,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque ultrices nibh m
 * haaaaaaaaalllllooooooooo
 
 > Hier steht ein Zitat von mir
+
+<img src="https://openclipart.org/image/800px/svg_to_png/321264/elephant-on-ball-silhouette.png"/>
